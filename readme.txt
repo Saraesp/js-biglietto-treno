@@ -4,4 +4,5 @@ Il programma dovrà chiedere all'utente il numero di chilometri che vuole percor
 2 - Chiedere l'età del passeggero
 3 - Calcolore il prezzo del biglietto
 3.1 - Calcolare prezzo del biglietto in base ai km e sapendo    che ogni chilometro solo 0.21 €
+3.2 - Applicazione sconto al biglietto in base all'età
 4 - Arrotondare il risultato a due cifre 
